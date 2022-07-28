@@ -1,0 +1,4 @@
+main.c:81:6:task1	8	static
+main.c:97:6:task2	8	static
+main.c:69:6:system_init	8	static
+main.c:40:5:main	16	static

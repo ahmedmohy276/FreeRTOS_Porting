@@ -1,0 +1,5 @@
+main.c:83:5:main	24	static
+main.c:127:6:system_init	8	static
+main.c:160:6:task1	32	static
+main.c:188:6:task2	24	static
+main.c:205:6:EXTI_callback	16	static

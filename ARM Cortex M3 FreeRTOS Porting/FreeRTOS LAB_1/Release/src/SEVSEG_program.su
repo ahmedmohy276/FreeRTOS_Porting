@@ -1,0 +1,2 @@
+SEVSEG_program.c:18:6:SEVSEG_voidInit	8	static
+SEVSEG_program.c:31:6:SEVSEG_voidDisplay	16	static

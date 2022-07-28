@@ -1,0 +1,12 @@
+DIO_program.c:16:6:MGPIO_voidSetPinDirection	16	static
+DIO_program.c:70:6:MGPIO_voidSetPinValue	16	static
+DIO_program.c:115:6:MGPIO_voidSetPin	16	static
+DIO_program.c:143:6:MGPIO_voidClearPin	16	static
+DIO_program.c:172:4:MGPIO_u8GetPinValue	24	static
+DIO_program.c:197:6:MGPIO_voidSetPortDirection	32	static
+DIO_program.c:228:6:MGPIO_voidSetPortValue	16	static
+DIO_program.c:249:5:MGPIO_u16GetPortValue	24	static
+DIO_program.c:273:13:MGPIO_voidLockSequence	16	static
+DIO_program.c:327:6:MGPIO_voidLockPin	16	static
+DIO_program.c:355:6:MGPIO_voidUnlockPin	16	static
+DIO_program.c:381:6:MGPIO_voidSetPullResistor	16	static

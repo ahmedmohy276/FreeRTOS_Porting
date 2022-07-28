@@ -1,0 +1,7 @@
+heap_5.c:133:8:pvPortMalloc	40	static
+heap_5.c:283:6:vPortFree	32	static
+heap_5.c:332:8:xPortGetFreeHeapSize	4	static
+heap_5.c:338:8:xPortGetMinimumEverFreeHeapSize	4	static
+heap_5.c:344:13:prvInsertBlockIntoFreeList	24	static
+heap_5.c:407:6:vPortDefineHeapRegions	64	static
+heap_5.c:502:6:vPortGetHeapStats	32	static
